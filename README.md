@@ -12,7 +12,6 @@ deploy configurations are stored in .github/workflows/deploy.yml:
     </ol>
   </li>
   <li>code is deployed on ubuntu</li>
-  <li></li>
 </ul>
 
 deployed index.html: https://mladendzida.github.io/gh-deployment-workflow/
